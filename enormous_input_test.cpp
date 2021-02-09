@@ -14,7 +14,7 @@ int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 
-	// Read the input n, k
+
 	int n, k;
 	cin >> n >> k;
 
